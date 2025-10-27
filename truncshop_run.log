@@ -1,0 +1,4904 @@
+
+
+============================================================
+CYCLE 1/60
+============================================================
+
+=== Buying cake ===
+=======================
+┏┳┓       ┏┓┓     
+ ┃ ┏┓┓┏┏┓┏┗┓┣┓┏┓┏┓
+ ┻ ┛ ┗┻┛┗┗┗┛┛┗┗┛┣┛
+                ┛
+========================
+Welcome to TruncShop CLI!
+You have 10.00 coins and 0 gems.
+Can you find a way to buy the flag?
+
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== BUY ITEM ===
+1. ☕ Coffee - 5.00 coins / 2 gems
+2. 🍕 Pizza - 12.00 coins / 4 gems
+3. 😎 Sunglasses - 25.00 coins / 8 gems
+4. 🎒 Backpack - 30.00 coins / 10 gems
+5. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+6. ⌚ Smart Watch - 35.00 coins / 12 gems
+7. 🔋 Power Bank - 20.00 coins / 7 gems
+8. 🍰 Cake - 8.00 coins / 3 gems
+9. 🪴 Plant - 10.00 coins / 3 gems
+10. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 25.00 coins
+2. 8 gems
+
+Enter payment method (1-2): Purchase failed: insufficient coins: have 10.00, need 25.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Selling cake ===
+
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Converting gems ===
+
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+
+============================================================
+CYCLE 2/60
+============================================================
+
+=== Buying cake ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== BUY ITEM ===
+1. ☕ Coffee - 5.00 coins / 2 gems
+2. 🍕 Pizza - 12.00 coins / 4 gems
+3. 😎 Sunglasses - 25.00 coins / 8 gems
+4. 🎒 Backpack - 30.00 coins / 10 gems
+5. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+6. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+7. ⌚ Smart Watch - 35.00 coins / 12 gems
+8. 🔋 Power Bank - 20.00 coins / 7 gems
+9. 🍰 Cake - 8.00 coins / 3 gems
+10. 🪴 Plant - 10.00 coins / 3 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 25.00 coins
+2. 8 gems
+
+Enter payment method (1-2): 
+=== Selling cake ===
+Purchase failed: insufficient coins: have 10.00, need 25.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Converting gems ===
+
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 3/60
+============================================================
+
+=== Buying cake ===
+
+
+=== Selling cake ===
+=== BUY ITEM ===
+1. 🔋 Power Bank - 20.00 coins / 7 gems
+2. 🍰 Cake - 8.00 coins / 3 gems
+3. 🪴 Plant - 10.00 coins / 3 gems
+4. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+5. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+6. ⌚ Smart Watch - 35.00 coins / 12 gems
+7. 😎 Sunglasses - 25.00 coins / 8 gems
+8. 🎒 Backpack - 30.00 coins / 10 gems
+9. ☕ Coffee - 5.00 coins / 2 gems
+10. 🍕 Pizza - 12.00 coins / 4 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 10.00 coins
+2. 3 gems
+
+Enter payment method (1-2): Successfully purchased Plant!
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+1. 🪴 Plant - Quantity: 1
+
+1. Sell an item
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== SELL ITEM ===
+1. 🪴 Plant - Quantity: 1
+   Sell for: 10.00 coins
+   Sell for: 3 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to receive payment?
+1. 10.00 coins
+2. 3 gems
+
+Enter payment method (1-2, or 0 to cancel): Successfully sold Plant for 3 gems!
+
+Press Enter to return to main menu...
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 0.00 🪙
+Gems: 3 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+
+============================================================
+CYCLE 4/60
+============================================================
+
+=== Buying cake ===
+Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 0.00 🪙
+Gems: 3 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+
+=== Selling cake ===
+Coins: 0.00 🪙
+Gems: 3 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+Converted 1.00 gems to 3.00 coins
+
+=== YOUR WALLET ===
+Coins: 3.00 🪙
+Gems: 2 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+Converted 1.00 gems to 3.00 coins
+
+=== YOUR WALLET ===
+Coins: 6.00 🪙
+Gems: 1 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 6.00 🪙
+Gems: 1 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+
+============================================================
+CYCLE 5/60
+============================================================
+
+=== Buying cake ===
+Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 6.00 🪙
+Gems: 1 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+
+=== Selling cake ===
+Coins: 6.00 🪙
+Gems: 1 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+Converted 1.00 gems to 3.00 coins
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 6/60
+============================================================
+
+=== Buying cake ===
+
+=== BUY ITEM ===
+1. ☕ Coffee - 5.00 coins / 2 gems
+2. 🍕 Pizza - 12.00 coins / 4 gems
+3. 😎 Sunglasses - 25.00 coins / 8 gems
+4. 🎒 Backpack - 30.00 coins / 10 gems
+5. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+6. ⌚ Smart Watch - 35.00 coins / 12 gems
+7. 🔋 Power Bank - 20.00 coins / 7 gems
+8. 🍰 Cake - 8.00 coins / 3 gems
+9. 🪴 Plant - 10.00 coins / 3 gems
+10. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 25.00 coins
+2. 8 gems
+
+Enter payment method (1-2): Purchase failed: insufficient coins: have 9.00, need 25.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Selling cake ===
+
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 7/60
+============================================================
+
+=== Buying cake ===
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+=== Selling cake ===
+
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 8/60
+============================================================
+
+=== Buying cake ===
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Selling cake ===
+
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Converting gems ===
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 9/60
+============================================================
+
+=== Buying cake ===
+
+=== BUY ITEM ===
+1. ☕ Coffee - 5.00 coins / 2 gems
+2. 🍕 Pizza - 12.00 coins / 4 gems
+3. 😎 Sunglasses - 25.00 coins / 8 gems
+4. 🎒 Backpack - 30.00 coins / 10 gems
+5. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+6. ⌚ Smart Watch - 35.00 coins / 12 gems
+7. 🔋 Power Bank - 20.00 coins / 7 gems
+8. 🍰 Cake - 8.00 coins / 3 gems
+9. 🪴 Plant - 10.00 coins / 3 gems
+10. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 25.00 coins
+2. 8 gems
+
+Enter payment method (1-2): Purchase failed: insufficient coins: have 9.00, need 25.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Selling cake ===
+
+=== Converting gems ===
+
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+
+============================================================
+CYCLE 10/60
+============================================================
+
+=== Buying cake ===
+
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+=== Selling cake ===
+
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Converting gems ===
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+
+============================================================
+CYCLE 11/60
+============================================================
+
+=== Buying cake ===
+
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Selling cake ===
+
+=== BUY ITEM ===
+1. ⌚ Smart Watch - 35.00 coins / 12 gems
+2. 🔋 Power Bank - 20.00 coins / 7 gems
+3. 🍰 Cake - 8.00 coins / 3 gems
+4. 🪴 Plant - 10.00 coins / 3 gems
+5. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+6. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+7. 🍕 Pizza - 12.00 coins / 4 gems
+8. 😎 Sunglasses - 25.00 coins / 8 gems
+9. 🎒 Backpack - 30.00 coins / 10 gems
+10. ☕ Coffee - 5.00 coins / 2 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 35.00 coins
+2. 12 gems
+
+Enter payment method (1-2): Purchase failed: insufficient coins: have 9.00, need 35.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Converting gems ===
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+
+============================================================
+CYCLE 12/60
+============================================================
+
+=== Buying cake ===
+Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+=== Selling cake ===
+
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Converting gems ===
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+
+============================================================
+CYCLE 13/60
+============================================================
+
+=== Buying cake ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== BUY ITEM ===
+1. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+2. ⌚ Smart Watch - 35.00 coins / 12 gems
+3. 🔋 Power Bank - 20.00 coins / 7 gems
+4. 🍰 Cake - 8.00 coins / 3 gems
+5. 🪴 Plant - 10.00 coins / 3 gems
+6. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+7. ☕ Coffee - 5.00 coins / 2 gems
+8. 🍕 Pizza - 12.00 coins / 4 gems
+9. 😎 Sunglasses - 25.00 coins / 8 gems
+10. 🎒 Backpack - 30.00 coins / 10 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+
+=== Selling cake ===
+1. 20.00 coins
+2. 7 gems
+
+Enter payment method (1-2): Purchase failed: insufficient coins: have 9.00, need 20.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Converting gems ===
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+
+============================================================
+CYCLE 14/60
+============================================================
+
+=== Buying cake ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== BUY ITEM ===
+1. ⌚ Smart Watch - 35.00 coins / 12 gems
+2. 🔋 Power Bank - 20.00 coins / 7 gems
+3. 🍰 Cake - 8.00 coins / 3 gems
+4. 🪴 Plant - 10.00 coins / 3 gems
+5. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+6. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+7. 🍕 Pizza - 12.00 coins / 4 gems
+8. 😎 Sunglasses - 25.00 coins / 8 gems
+9. 🎒 Backpack - 30.00 coins / 10 gems
+10. ☕ Coffee - 5.00 coins / 2 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 8.00 coins
+2. 3 gems
+
+Enter payment method (1-2): Successfully purchased Cake!
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Selling cake ===
+
+=== YOUR INVENTORY ===
+1. 🍰 Cake - Quantity: 1
+
+1. Sell an item
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== SELL ITEM ===
+1. 🍰 Cake - Quantity: 1
+   Sell for: 8.00 coins
+   Sell for: 3 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to receive payment?
+1. 8.00 coins
+2. 3 gems
+
+Enter payment method (1-2, or 0 to cancel): Successfully sold Cake for 3 gems!
+
+Press Enter to return to main menu...
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 15/60
+============================================================
+
+=== Buying cake ===
+
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 1.00 🪙
+Gems: 3 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Selling cake ===
+
+How many gems do you want to convert?: 
+Converted 1.00 gems to 3.00 coins
+
+=== YOUR WALLET ===
+Coins: 4.00 🪙
+Gems: 2 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== BUY ITEM ===
+1. ⌚ Smart Watch - 35.00 coins / 12 gems
+2. 🔋 Power Bank - 20.00 coins / 7 gems
+3. 🍰 Cake - 8.00 coins / 3 gems
+4. 🪴 Plant - 10.00 coins / 3 gems
+5. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+6. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+7. 🍕 Pizza - 12.00 coins / 4 gems
+8. 😎 Sunglasses - 25.00 coins / 8 gems
+9. 🎒 Backpack - 30.00 coins / 10 gems
+10. ☕ Coffee - 5.00 coins / 2 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 8.00 coins
+2. 3 gems
+
+Enter payment method (1-2): 
+=== Converting gems ===
+Purchase failed: insufficient gems: have 2, need 3
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+
+============================================================
+CYCLE 16/60
+============================================================
+
+=== Buying cake ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 4.00 🪙
+Gems: 2 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 4.00 🪙
+Gems: 2 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Selling cake ===
+Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 4.00 🪙
+Gems: 2 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+Converted 1.00 gems to 3.00 coins
+
+=== YOUR WALLET ===
+Coins: 7.00 🪙
+Gems: 1 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+Insufficient gem balance.
+
+=== YOUR WALLET ===
+Coins: 7.00 🪙
+Gems: 1 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 7.00 🪙
+Gems: 1 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+
+============================================================
+CYCLE 17/60
+============================================================
+
+=== Buying cake ===
+Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 7.00 🪙
+Gems: 1 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 7.00 🪙
+Gems: 1 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Selling cake ===
+
+How many gems do you want to convert?: 
+Converted 1.00 gems to 3.00 coins
+
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+=== Converting gems ===
+
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+
+============================================================
+CYCLE 18/60
+============================================================
+
+=== Buying cake ===
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+=== Selling cake ===
+
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Converting gems ===
+
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+
+============================================================
+CYCLE 19/60
+============================================================
+
+=== Buying cake ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== BUY ITEM ===
+1. 🪴 Plant - 10.00 coins / 3 gems
+
+=== Selling cake ===
+2. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+3. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+4. ⌚ Smart Watch - 35.00 coins / 12 gems
+5. 🔋 Power Bank - 20.00 coins / 7 gems
+6. 🍰 Cake - 8.00 coins / 3 gems
+7. ☕ Coffee - 5.00 coins / 2 gems
+8. 🍕 Pizza - 12.00 coins / 4 gems
+9. 😎 Sunglasses - 25.00 coins / 8 gems
+10. 🎒 Backpack - 30.00 coins / 10 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 15.00 coins
+2. 5 gems
+
+Enter payment method (1-2): Purchase failed: insufficient coins: have 10.00, need 15.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+=== Converting gems ===
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+
+============================================================
+CYCLE 20/60
+============================================================
+
+=== Buying cake ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== BUY ITEM ===
+1. 🍕 Pizza - 12.00 coins / 4 gems
+2. 😎 Sunglasses - 25.00 coins / 8 gems
+3. 🎒 Backpack - 30.00 coins / 10 gems
+4. ☕ Coffee - 5.00 coins / 2 gems
+5. ⌚ Smart Watch - 35.00 coins / 12 gems
+6. 🔋 Power Bank - 20.00 coins / 7 gems
+7. 🍰 Cake - 8.00 coins / 3 gems
+8. 🪴 Plant - 10.00 coins / 3 gems
+9. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+10. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 30.00 coins
+2. 10 gems
+
+Enter payment method (1-2): Purchase failed: insufficient coins: have 10.00, need 30.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Selling cake ===
+
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 21/60
+============================================================
+
+=== Buying cake ===
+
+=== BUY ITEM ===
+1. 🪴 Plant - 10.00 coins / 3 gems
+2. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+3. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+4. ⌚ Smart Watch - 35.00 coins / 12 gems
+5. 🔋 Power Bank - 20.00 coins / 7 gems
+6. 🍰 Cake - 8.00 coins / 3 gems
+7. ☕ Coffee - 5.00 coins / 2 gems
+8. 🍕 Pizza - 12.00 coins / 4 gems
+9. 😎 Sunglasses - 25.00 coins / 8 gems
+10. 🎒 Backpack - 30.00 coins / 10 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 15.00 coins
+2. 5 gems
+
+Enter payment method (1-2): 
+=== Selling cake ===
+Purchase failed: insufficient coins: have 10.00, need 15.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+
+============================================================
+CYCLE 22/60
+============================================================
+
+=== Buying cake ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== BUY ITEM ===
+1. 🔋 Power Bank - 20.00 coins / 7 gems
+2. 🍰 Cake - 8.00 coins / 3 gems
+3. 🪴 Plant - 10.00 coins / 3 gems
+4. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+5. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+6. ⌚ Smart Watch - 35.00 coins / 12 gems
+7. 😎 Sunglasses - 25.00 coins / 8 gems
+8. 🎒 Backpack - 30.00 coins / 10 gems
+9. ☕ Coffee - 5.00 coins / 2 gems
+10. 🍕 Pizza - 12.00 coins / 4 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 10.00 coins
+2. 3 gems
+
+Enter payment method (1-2): 
+=== Selling cake ===
+Successfully purchased Plant!
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+1. 🪴 Plant - Quantity: 1
+
+1. Sell an item
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== SELL ITEM ===
+1. 🪴 Plant - Quantity: 1
+   Sell for: 10.00 coins
+   Sell for: 3 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to receive payment?
+1. 10.00 coins
+2. 3 gems
+
+Enter payment method (1-2, or 0 to cancel): Successfully sold Plant for 3 gems!
+
+Press Enter to return to main menu...
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 0.00 🪙
+Gems: 3 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+
+============================================================
+CYCLE 23/60
+============================================================
+
+=== Buying cake ===
+Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 0.00 🪙
+Gems: 3 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 0.00 🪙
+Gems: 3 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Selling cake ===
+
+How many gems do you want to convert?: 
+Converted 1.00 gems to 3.00 coins
+
+=== YOUR WALLET ===
+Coins: 3.00 🪙
+Gems: 2 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+Converted 1.00 gems to 3.00 coins
+
+=== YOUR WALLET ===
+Coins: 6.00 🪙
+Gems: 1 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 24/60
+============================================================
+
+=== Buying cake ===
+
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 6.00 🪙
+Gems: 1 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 6.00 🪙
+Gems: 1 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+=== Selling cake ===
+
+Converted 1.00 gems to 3.00 coins
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== BUY ITEM ===
+1. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+2. ⌚ Smart Watch - 35.00 coins / 12 gems
+3. 🔋 Power Bank - 20.00 coins / 7 gems
+4. 🍰 Cake - 8.00 coins / 3 gems
+5. 🪴 Plant - 10.00 coins / 3 gems
+6. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+7. ☕ Coffee - 5.00 coins / 2 gems
+8. 🍕 Pizza - 12.00 coins / 4 gems
+9. 😎 Sunglasses - 25.00 coins / 8 gems
+10. 🎒 Backpack - 30.00 coins / 10 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 35.00 coins
+2. 12 gems
+
+Enter payment method (1-2): Purchase failed: insufficient coins: have 9.00, need 35.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): Invalid choice. Please try again.
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+
+============================================================
+CYCLE 25/60
+============================================================
+
+=== Buying cake ===
+Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Selling cake ===
+
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+
+============================================================
+CYCLE 26/60
+============================================================
+
+=== Buying cake ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Selling cake ===
+
+=== BUY ITEM ===
+1. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+2. ⌚ Smart Watch - 35.00 coins / 12 gems
+3. 🔋 Power Bank - 20.00 coins / 7 gems
+4. 🍰 Cake - 8.00 coins / 3 gems
+5. 🪴 Plant - 10.00 coins / 3 gems
+6. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+7. ☕ Coffee - 5.00 coins / 2 gems
+8. 🍕 Pizza - 12.00 coins / 4 gems
+9. 😎 Sunglasses - 25.00 coins / 8 gems
+10. 🎒 Backpack - 30.00 coins / 10 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 20.00 coins
+2. 7 gems
+
+Enter payment method (1-2): Purchase failed: insufficient coins: have 9.00, need 20.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Converting gems ===
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 27/60
+============================================================
+
+=== Buying cake ===
+
+=== BUY ITEM ===
+1. ☕ Coffee - 5.00 coins / 2 gems
+2. 🍕 Pizza - 12.00 coins / 4 gems
+3. 😎 Sunglasses - 25.00 coins / 8 gems
+4. 🎒 Backpack - 30.00 coins / 10 gems
+5. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+6. ⌚ Smart Watch - 35.00 coins / 12 gems
+7. 🔋 Power Bank - 20.00 coins / 7 gems
+8. 🍰 Cake - 8.00 coins / 3 gems
+9. 🪴 Plant - 10.00 coins / 3 gems
+10. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+
+Enter item number (or 0 to cancel): 
+=== Selling cake ===
+
+How would you like to pay?
+1. 25.00 coins
+2. 8 gems
+
+Enter payment method (1-2): Purchase failed: insufficient coins: have 9.00, need 25.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+
+============================================================
+CYCLE 28/60
+============================================================
+
+=== Buying cake ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== BUY ITEM ===
+1. 🍰 Cake - 8.00 coins / 3 gems
+2. 🪴 Plant - 10.00 coins / 3 gems
+3. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+4. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+5. ⌚ Smart Watch - 35.00 coins / 12 gems
+6. 🔋 Power Bank - 20.00 coins / 7 gems
+7. 🎒 Backpack - 30.00 coins / 10 gems
+8. ☕ Coffee - 5.00 coins / 2 gems
+9. 🍕 Pizza - 12.00 coins / 4 gems
+10. 😎 Sunglasses - 25.00 coins / 8 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 100.00 coins
+2. 33 gems
+
+Enter payment method (1-2): 
+=== Selling cake ===
+Purchase failed: insufficient coins: have 9.00, need 100.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+
+============================================================
+CYCLE 29/60
+============================================================
+
+=== Buying cake ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== BUY ITEM ===
+1. 😎 Sunglasses - 25.00 coins / 8 gems
+2. 🎒 Backpack - 30.00 coins / 10 gems
+3. ☕ Coffee - 5.00 coins / 2 gems
+4. 🍕 Pizza - 12.00 coins / 4 gems
+5. 🔋 Power Bank - 20.00 coins / 7 gems
+6. 🍰 Cake - 8.00 coins / 3 gems
+7. 🪴 Plant - 10.00 coins / 3 gems
+8. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+9. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+10. ⌚ Smart Watch - 35.00 coins / 12 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 25.00 coins
+2. 8 gems
+
+Enter payment method (1-2): 
+=== Selling cake ===
+Purchase failed: insufficient coins: have 9.00, need 25.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): Invalid choice. Please try again.
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+
+============================================================
+CYCLE 30/60
+============================================================
+
+=== Buying cake ===
+Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Selling cake ===
+
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 31/60
+============================================================
+
+=== Buying cake ===
+
+=== BUY ITEM ===
+1. 🔋 Power Bank - 20.00 coins / 7 gems
+2. 🍰 Cake - 8.00 coins / 3 gems
+3. 🪴 Plant - 10.00 coins / 3 gems
+4. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+5. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+6. ⌚ Smart Watch - 35.00 coins / 12 gems
+7. 😎 Sunglasses - 25.00 coins / 8 gems
+8. 🎒 Backpack - 30.00 coins / 10 gems
+9. ☕ Coffee - 5.00 coins / 2 gems
+10. 🍕 Pizza - 12.00 coins / 4 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 10.00 coins
+2. 3 gems
+
+Enter payment method (1-2): 
+=== Selling cake ===
+Purchase failed: insufficient coins: have 9.00, need 10.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Converting gems ===
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 32/60
+============================================================
+
+=== Buying cake ===
+
+=== BUY ITEM ===
+1. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+2. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+3. ⌚ Smart Watch - 35.00 coins / 12 gems
+4. 🔋 Power Bank - 20.00 coins / 7 gems
+5. 🍰 Cake - 8.00 coins / 3 gems
+6. 🪴 Plant - 10.00 coins / 3 gems
+7. ☕ Coffee - 5.00 coins / 2 gems
+8. 🍕 Pizza - 12.00 coins / 4 gems
+9. 😎 Sunglasses - 25.00 coins / 8 gems
+10. 🎒 Backpack - 30.00 coins / 10 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 35.00 coins
+2. 12 gems
+
+Enter payment method (1-2): 
+=== Selling cake ===
+Purchase failed: insufficient coins: have 9.00, need 35.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Converting gems ===
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 33/60
+============================================================
+
+=== Buying cake ===
+
+=== BUY ITEM ===
+1. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+2. ⌚ Smart Watch - 35.00 coins / 12 gems
+3. 🔋 Power Bank - 20.00 coins / 7 gems
+4. 🍰 Cake - 8.00 coins / 3 gems
+5. 🪴 Plant - 10.00 coins / 3 gems
+6. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+7. ☕ Coffee - 5.00 coins / 2 gems
+8. 🍕 Pizza - 12.00 coins / 4 gems
+
+=== Selling cake ===
+9. 😎 Sunglasses - 25.00 coins / 8 gems
+10. 🎒 Backpack - 30.00 coins / 10 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 20.00 coins
+2. 7 gems
+
+Enter payment method (1-2): Purchase failed: insufficient coins: have 9.00, need 20.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Converting gems ===
+
+
+
+============================================================
+CYCLE 34/60
+============================================================
+
+=== Buying cake ===
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Selling cake ===
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== BUY ITEM ===
+1. 😎 Sunglasses - 25.00 coins / 8 gems
+2. 🎒 Backpack - 30.00 coins / 10 gems
+3. ☕ Coffee - 5.00 coins / 2 gems
+4. 🍕 Pizza - 12.00 coins / 4 gems
+5. 🔋 Power Bank - 20.00 coins / 7 gems
+6. 🍰 Cake - 8.00 coins / 3 gems
+7. 🪴 Plant - 10.00 coins / 3 gems
+8. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+9. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+10. ⌚ Smart Watch - 35.00 coins / 12 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 25.00 coins
+2. 8 gems
+
+Enter payment method (1-2): Invalid payment method.
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 35/60
+============================================================
+
+=== Buying cake ===
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+=== Selling cake ===
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 36/60
+============================================================
+
+=== Buying cake ===
+
+=== BUY ITEM ===
+1. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+2. ⌚ Smart Watch - 35.00 coins / 12 gems
+3. 🔋 Power Bank - 20.00 coins / 7 gems
+4. 🍰 Cake - 8.00 coins / 3 gems
+5. 🪴 Plant - 10.00 coins / 3 gems
+6. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+7. ☕ Coffee - 5.00 coins / 2 gems
+8. 🍕 Pizza - 12.00 coins / 4 gems
+9. 😎 Sunglasses - 25.00 coins / 8 gems
+10. 🎒 Backpack - 30.00 coins / 10 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 20.00 coins
+2. 7 gems
+
+Enter payment method (1-2): 
+=== Selling cake ===
+Purchase failed: insufficient coins: have 9.00, need 20.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Converting gems ===
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+
+============================================================
+CYCLE 37/60
+============================================================
+
+=== Buying cake ===
+
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Selling cake ===
+
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Converting gems ===
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+
+============================================================
+CYCLE 38/60
+============================================================
+
+=== Buying cake ===
+Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+=== Selling cake ===
+
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Converting gems ===
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 39/60
+============================================================
+
+=== Buying cake ===
+
+=== BUY ITEM ===
+1. 🍕 Pizza - 12.00 coins / 4 gems
+2. 😎 Sunglasses - 25.00 coins / 8 gems
+3. 🎒 Backpack - 30.00 coins / 10 gems
+4. ☕ Coffee - 5.00 coins / 2 gems
+5. ⌚ Smart Watch - 35.00 coins / 12 gems
+6. 🔋 Power Bank - 20.00 coins / 7 gems
+7. 🍰 Cake - 8.00 coins / 3 gems
+8. 🪴 Plant - 10.00 coins / 3 gems
+9. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+10. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 30.00 coins
+2. 10 gems
+
+Enter payment method (1-2): Purchase failed: insufficient coins: have 9.00, need 30.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Selling cake ===
+
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Converting gems ===
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+
+============================================================
+CYCLE 40/60
+============================================================
+
+=== Buying cake ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== BUY ITEM ===
+1. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+2. ⌚ Smart Watch - 35.00 coins / 12 gems
+3. 🔋 Power Bank - 20.00 coins / 7 gems
+4. 🍰 Cake - 8.00 coins / 3 gems
+5. 🪴 Plant - 10.00 coins / 3 gems
+6. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+7. ☕ Coffee - 5.00 coins / 2 gems
+8. 🍕 Pizza - 12.00 coins / 4 gems
+9. 😎 Sunglasses - 25.00 coins / 8 gems
+10. 🎒 Backpack - 30.00 coins / 10 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 20.00 coins
+2. 7 gems
+
+Enter payment method (1-2): Purchase failed: insufficient coins: have 9.00, need 20.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Selling cake ===
+
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Converting gems ===
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+
+============================================================
+CYCLE 41/60
+============================================================
+
+=== Buying cake ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== BUY ITEM ===
+1. ☕ Coffee - 5.00 coins / 2 gems
+2. 🍕 Pizza - 12.00 coins / 4 gems
+3. 😎 Sunglasses - 25.00 coins / 8 gems
+4. 🎒 Backpack - 30.00 coins / 10 gems
+5. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+6. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+7. ⌚ Smart Watch - 35.00 coins / 12 gems
+8. 🔋 Power Bank - 20.00 coins / 7 gems
+9. 🍰 Cake - 8.00 coins / 3 gems
+10. 🪴 Plant - 10.00 coins / 3 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 25.00 coins
+2. 8 gems
+
+Enter payment method (1-2): Purchase failed: insufficient coins: have 9.00, need 25.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Selling cake ===
+
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+
+============================================================
+CYCLE 42/60
+============================================================
+
+=== Buying cake ===
+
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Selling cake ===
+
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Converting gems ===
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+
+============================================================
+CYCLE 43/60
+============================================================
+
+=== Buying cake ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== BUY ITEM ===
+1. ☕ Coffee - 5.00 coins / 2 gems
+2. 🍕 Pizza - 12.00 coins / 4 gems
+3. 😎 Sunglasses - 25.00 coins / 8 gems
+4. 🎒 Backpack - 30.00 coins / 10 gems
+5. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+6. ⌚ Smart Watch - 35.00 coins / 12 gems
+7. 🔋 Power Bank - 20.00 coins / 7 gems
+8. 🍰 Cake - 8.00 coins / 3 gems
+9. 🪴 Plant - 10.00 coins / 3 gems
+10. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 25.00 coins
+2. 8 gems
+
+Enter payment method (1-2): Purchase failed: insufficient coins: have 9.00, need 25.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Selling cake ===
+
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 9.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 44/60
+============================================================
+
+=== Buying cake ===
+
+=== BUY ITEM ===
+1. 😎 Sunglasses - 25.00 coins / 8 gems
+2. 🎒 Backpack - 30.00 coins / 10 gems
+3. ☕ Coffee - 5.00 coins / 2 gems
+4. 🍕 Pizza - 12.00 coins / 4 gems
+5. 🔋 Power Bank - 20.00 coins / 7 gems
+6. 🍰 Cake - 8.00 coins / 3 gems
+7. 🪴 Plant - 10.00 coins / 3 gems
+8. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+9. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+10. ⌚ Smart Watch - 35.00 coins / 12 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+
+=== Selling cake ===
+1. 5.00 coins
+2. 2 gems
+
+Enter payment method (1-2): Successfully purchased Coffee!
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+1. ☕ Coffee - Quantity: 1
+
+1. Sell an item
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== SELL ITEM ===
+1. ☕ Coffee - Quantity: 1
+   Sell for: 5.00 coins
+   Sell for: 2 gems
+
+Enter item number (or 0 to cancel): 
+=== Converting gems ===
+
+How would you like to receive payment?
+1. 5.00 coins
+2. 2 gems
+
+Enter payment method (1-2, or 0 to cancel): Successfully sold Coffee for 2 gems!
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 4.00 🪙
+Gems: 2 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+
+============================================================
+CYCLE 45/60
+============================================================
+
+=== Buying cake ===
+Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 4.00 🪙
+Gems: 2 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 4.00 🪙
+Gems: 2 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Selling cake ===
+
+How many gems do you want to convert?: 
+Converted 1.00 gems to 3.00 coins
+
+=== YOUR WALLET ===
+Coins: 7.00 🪙
+Gems: 1 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+Insufficient gem balance.
+
+=== YOUR WALLET ===
+Coins: 7.00 🪙
+Gems: 1 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 46/60
+============================================================
+
+=== Buying cake ===
+
+=== YOUR WALLET ===
+Coins: 7.00 🪙
+Gems: 1 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 7.00 🪙
+Gems: 1 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 7.00 🪙
+Gems: 1 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+=== Selling cake ===
+
+Converted 1.00 gems to 3.00 coins
+
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Converting gems ===
+
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+
+============================================================
+CYCLE 47/60
+============================================================
+
+=== Buying cake ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== BUY ITEM ===
+1. ☕ Coffee - 5.00 coins / 2 gems
+2. 🍕 Pizza - 12.00 coins / 4 gems
+
+=== Selling cake ===
+3. 😎 Sunglasses - 25.00 coins / 8 gems
+4. 🎒 Backpack - 30.00 coins / 10 gems
+5. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+6. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+7. ⌚ Smart Watch - 35.00 coins / 12 gems
+8. 🔋 Power Bank - 20.00 coins / 7 gems
+9. 🍰 Cake - 8.00 coins / 3 gems
+10. 🪴 Plant - 10.00 coins / 3 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 25.00 coins
+2. 8 gems
+
+Enter payment method (1-2): Purchase failed: insufficient coins: have 10.00, need 25.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Converting gems ===
+
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 48/60
+============================================================
+
+=== Buying cake ===
+
+=== BUY ITEM ===
+1. 🍕 Pizza - 12.00 coins / 4 gems
+2. 😎 Sunglasses - 25.00 coins / 8 gems
+3. 🎒 Backpack - 30.00 coins / 10 gems
+4. ☕ Coffee - 5.00 coins / 2 gems
+5. ⌚ Smart Watch - 35.00 coins / 12 gems
+6. 🔋 Power Bank - 20.00 coins / 7 gems
+7. 🍰 Cake - 8.00 coins / 3 gems
+8. 🪴 Plant - 10.00 coins / 3 gems
+9. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+10. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 30.00 coins
+2. 10 gems
+
+Enter payment method (1-2): 
+=== Selling cake ===
+Purchase failed: insufficient coins: have 10.00, need 30.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Converting gems ===
+
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 10.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 49/60
+============================================================
+
+=== Buying cake ===
+
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== BUY ITEM ===
+1. ☕ Coffee - 5.00 coins / 2 gems
+2. 🍕 Pizza - 12.00 coins / 4 gems
+3. 😎 Sunglasses - 25.00 coins / 8 gems
+4. 🎒 Backpack - 30.00 coins / 10 gems
+5. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+6. ⌚ Smart Watch - 35.00 coins / 12 gems
+7. 🔋 Power Bank - 20.00 coins / 7 gems
+8. 🍰 Cake - 8.00 coins / 3 gems
+9. 🪴 Plant - 10.00 coins / 3 gems
+10. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+
+Enter item number (or 0 to cancel): 
+=== Selling cake ===
+
+How would you like to pay?
+1. 5.00 coins
+2. 2 gems
+
+Enter payment method (1-2): Successfully purchased Coffee!
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+1. ☕ Coffee - Quantity: 1
+
+1. Sell an item
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== SELL ITEM ===
+1. ☕ Coffee - Quantity: 1
+   Sell for: 5.00 coins
+   Sell for: 2 gems
+
+Enter item number (or 0 to cancel): Invalid choice.
+
+=== YOUR INVENTORY ===
+1. ☕ Coffee - Quantity: 1
+
+1. Sell an item
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+1. ☕ Coffee - Quantity: 1
+
+1. Sell an item
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR INVENTORY ===
+1. ☕ Coffee - Quantity: 1
+
+1. Sell an item
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 50/60
+============================================================
+
+=== Buying cake ===
+
+=== BUY ITEM ===
+1. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+2. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+3. ⌚ Smart Watch - 35.00 coins / 12 gems
+4. 🔋 Power Bank - 20.00 coins / 7 gems
+5. 🍰 Cake - 8.00 coins / 3 gems
+6. 🪴 Plant - 10.00 coins / 3 gems
+7. ☕ Coffee - 5.00 coins / 2 gems
+8. 🍕 Pizza - 12.00 coins / 4 gems
+9. 😎 Sunglasses - 25.00 coins / 8 gems
+10. 🎒 Backpack - 30.00 coins / 10 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 35.00 coins
+2. 12 gems
+
+Enter payment method (1-2): Purchase failed: insufficient coins: have 5.00, need 35.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+
+=== Selling cake ===
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+1. ☕ Coffee - Quantity: 1
+
+1. Sell an item
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== SELL ITEM ===
+1. ☕ Coffee - Quantity: 1
+   Sell for: 5.00 coins
+   Sell for: 2 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to receive payment?
+1. 5.00 coins
+2. 2 gems
+
+Enter payment method (1-2, or 0 to cancel): 
+=== Converting gems ===
+Successfully sold Coffee for 2 gems!
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 51/60
+============================================================
+
+=== Buying cake ===
+
+=== YOUR WALLET ===
+Coins: 5.00 🪙
+Gems: 2 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 5.00 🪙
+Gems: 2 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 5.00 🪙
+Gems: 2 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Selling cake ===
+
+How many gems do you want to convert?: 
+Converted 1.00 gems to 3.00 coins
+
+=== YOUR WALLET ===
+Coins: 8.00 🪙
+Gems: 1 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+=== Converting gems ===
+
+Insufficient gem balance.
+
+=== YOUR WALLET ===
+Coins: 8.00 🪙
+Gems: 1 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 52/60
+============================================================
+
+=== Buying cake ===
+
+=== YOUR WALLET ===
+Coins: 8.00 🪙
+Gems: 1 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 8.00 🪙
+Gems: 1 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 8.00 🪙
+Gems: 1 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+=== Selling cake ===
+
+Converted 1.00 gems to 3.00 coins
+
+=== YOUR WALLET ===
+Coins: 11.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+=== Converting gems ===
+
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 11.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 53/60
+============================================================
+
+=== Buying cake ===
+
+=== YOUR WALLET ===
+Coins: 11.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Selling cake ===
+Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 11.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 11.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 54/60
+============================================================
+
+=== Buying cake ===
+
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 11.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Selling cake ===
+
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 11.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+
+=== Converting gems ===
+Coins: 11.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== BUY ITEM ===
+1. 😎 Sunglasses - 25.00 coins / 8 gems
+2. 🎒 Backpack - 30.00 coins / 10 gems
+3. ☕ Coffee - 5.00 coins / 2 gems
+4. 🍕 Pizza - 12.00 coins / 4 gems
+5. 🔋 Power Bank - 20.00 coins / 7 gems
+6. 🍰 Cake - 8.00 coins / 3 gems
+7. 🪴 Plant - 10.00 coins / 3 gems
+8. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+9. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+10. ⌚ Smart Watch - 35.00 coins / 12 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 5.00 coins
+2. 2 gems
+
+Enter payment method (1-2): Purchase failed: insufficient gems: have 0, need 2
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 55/60
+============================================================
+
+=== Buying cake ===
+
+=== YOUR WALLET ===
+Coins: 11.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Selling cake ===
+Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 11.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 11.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+
+=== Converting gems ===
+Coins: 11.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 56/60
+============================================================
+
+=== Buying cake ===
+
+=== YOUR WALLET ===
+Coins: 11.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 11.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): Invalid choice. Please try again.
+
+=== YOUR WALLET ===
+Coins: 11.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Selling cake ===
+
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 11.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 11.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 11.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 11.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+
+============================================================
+CYCLE 57/60
+============================================================
+
+=== Buying cake ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== BUY ITEM ===
+1. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+2. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+3. ⌚ Smart Watch - 35.00 coins / 12 gems
+4. 🔋 Power Bank - 20.00 coins / 7 gems
+5. 🍰 Cake - 8.00 coins / 3 gems
+6. 🪴 Plant - 10.00 coins / 3 gems
+7. ☕ Coffee - 5.00 coins / 2 gems
+8. 🍕 Pizza - 12.00 coins / 4 gems
+9. 😎 Sunglasses - 25.00 coins / 8 gems
+10. 🎒 Backpack - 30.00 coins / 10 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 35.00 coins
+2. 12 gems
+
+Enter payment method (1-2): Purchase failed: insufficient coins: have 11.00, need 35.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Selling cake ===
+
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 11.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 11.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+
+============================================================
+CYCLE 58/60
+============================================================
+
+=== Buying cake ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== BUY ITEM ===
+1. ☕ Coffee - 5.00 coins / 2 gems
+2. 🍕 Pizza - 12.00 coins / 4 gems
+3. 😎 Sunglasses - 25.00 coins / 8 gems
+4. 🎒 Backpack - 30.00 coins / 10 gems
+5. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+6. ⌚ Smart Watch - 35.00 coins / 12 gems
+7. 🔋 Power Bank - 20.00 coins / 7 gems
+8. 🍰 Cake - 8.00 coins / 3 gems
+9. 🪴 Plant - 10.00 coins / 3 gems
+10. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 25.00 coins
+2. 8 gems
+
+Enter payment method (1-2): 
+=== Selling cake ===
+Purchase failed: insufficient coins: have 11.00, need 25.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Converting gems ===
+
+=== YOUR WALLET ===
+Coins: 11.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 11.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 59/60
+============================================================
+
+=== Buying cake ===
+
+=== BUY ITEM ===
+1. 🎒 Backpack - 30.00 coins / 10 gems
+2. ☕ Coffee - 5.00 coins / 2 gems
+3. 🍕 Pizza - 12.00 coins / 4 gems
+4. 😎 Sunglasses - 25.00 coins / 8 gems
+5. 🍰 Cake - 8.00 coins / 3 gems
+6. 🪴 Plant - 10.00 coins / 3 gems
+7. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+8. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+9. ⌚ Smart Watch - 35.00 coins / 12 gems
+10. 🔋 Power Bank - 20.00 coins / 7 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 12.00 coins
+2. 4 gems
+
+Enter payment method (1-2): Purchase failed: insufficient coins: have 11.00, need 12.00
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Selling cake ===
+
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Converting gems ===
+
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 11.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+How many gems do you want to convert?: 
+You don't have any gems to convert.
+
+=== YOUR WALLET ===
+Coins: 11.00 🪙
+Gems: 0 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+
+============================================================
+CYCLE 60/60
+============================================================
+
+=== Buying cake ===
+
+=== BUY ITEM ===
+1. 😎 Sunglasses - 25.00 coins / 8 gems
+2. 🎒 Backpack - 30.00 coins / 10 gems
+3. ☕ Coffee - 5.00 coins / 2 gems
+4. 🍕 Pizza - 12.00 coins / 4 gems
+5. 🔋 Power Bank - 20.00 coins / 7 gems
+6. 🍰 Cake - 8.00 coins / 3 gems
+7. 🪴 Plant - 10.00 coins / 3 gems
+8. 🏁 Secure Flag Vault - 100.00 coins / 33 gems
+9. 🎧 Wireless Earbuds - 15.00 coins / 5 gems
+10. ⌚ Smart Watch - 35.00 coins / 12 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to pay?
+1. 5.00 coins
+2. 2 gems
+
+Enter payment method (1-2): Successfully purchased Coffee!
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== Selling cake ===
+
+=== YOUR INVENTORY ===
+1. ☕ Coffee - Quantity: 1
+
+1. Sell an item
+2. Return to main menu
+
+Enter your choice (1-2): 
+=== SELL ITEM ===
+1. ☕ Coffee - Quantity: 1
+   Sell for: 5.00 coins
+   Sell for: 2 gems
+
+Enter item number (or 0 to cancel): 
+How would you like to receive payment?
+1. 5.00 coins
+2. 2 gems
+
+Enter payment method (1-2, or 0 to cancel): Successfully sold Coffee for 2 gems!
+
+Press Enter to return to main menu...
+=== Converting gems ===
+
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR INVENTORY ===
+Your inventory is empty.
+
+Press Enter to return to main menu...
+=== MAIN MENU ===
+1. View Inventory
+2. View Wallet
+3. Buy Item
+4. Exit
+
+Enter your choice (1-4): 
+=== YOUR WALLET ===
+Coins: 6.00 🪙
+Gems: 2 💎
+
+1. Convert Gems to Coins
+2. Return to main menu
+
+Enter your choice (1-2): 
+
+============================================================
+FINAL OUTPUT
+============================================================

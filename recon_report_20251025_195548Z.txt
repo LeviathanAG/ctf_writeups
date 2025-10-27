@@ -1,0 +1,100 @@
+
+================================================================================
+Recon Playbook Report - 20251025_195548Z (UTC)
+================================================================================
+
+
+=== invocation ===
+c:\ctf_writeups\DeadFace\linux_challs\sol.py
+
+=== id ===
+'id' is not recognized as an internal or external command,
+operable program or batch file.
+
+=== sudo -l ===
+The system cannot find the path specified.
+'true' is not recognized as an internal or external command,
+operable program or batch file.
+
+=== /home listing ===
+The system cannot find the path specified.
+'true' is not recognized as an internal or external command,
+operable program or batch file.
+
+=== /home/gh0st404 listing ===
+The system cannot find the path specified.
+'true' is not recognized as an internal or external command,
+operable program or batch file.
+
+=== tools directory ===
+\home\gh0st404\tools does not exist or is not readable
+
+=== grep keywords start ===
+Keywords: deadface, flag{, gh0st, hostbusters, subrecon
+Paths: /home, /opt, /srv, /var/www, /tmp, /etc
+
+=== grep keywords results ===
+'grep' is not recognized as an internal or external command,
+operable program or batch file.
+
+=== recently modified files (mtime -3 days) ===
+The system cannot find the path specified.
+
+=== small text files (under 10KB, first 200) ===
+The system cannot find the path specified.
+
+=== subs_* files under /home/gh0st404 ===
+[none found]
+
+=== recon* dirs under /home/gh0st404 ===
+[none found]
+
+=== webroot listing (/var/www /var/www/html /srv) ===
+The system cannot find the path specified.
+'true' is not recognized as an internal or external command,
+operable program or batch file.
+
+=== webroot suspicious files ===
+[none found]
+
+=== /etc/crontab ===
+The system cannot find the path specified.
+'true' is not recognized as an internal or external command,
+operable program or batch file.
+
+=== /etc/cron.* listing ===
+The system cannot find the path specified.
+'true' is not recognized as an internal or external command,
+operable program or batch file.
+
+=== user crontabs ===
+u was unexpected at this time.
+
+=== ps aux (top 200 lines) ===
+'ps' is not recognized as an internal or external command,
+operable program or batch file.
+
+=== listening ports (netstat/ss) ===
+The system cannot find the path specified.
+The system cannot find the path specified.
+'true' is not recognized as an internal or external command,
+operable program or batch file.
+
+=== SUID files (first 200) ===
+The system cannot find the path specified.
+
+=== scripts under /home and /opt (first 200) ===
+The system cannot find the path specified.
+
+=== direct grep for flag patterns (first 500 hits) ===
+'grep' is not recognized as an internal or external command,
+operable program or batch file.
+
+=== next_steps_hint ===
+If you see promising file paths in this report, run:
+    sed -n '1,400p' /path/to/file
+or
+    strings /path/to/binary | grep -Ei 'deadface|flag'
+================================================================================
+End of report
+================================================================================
